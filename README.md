@@ -1,12 +1,13 @@
-A# FakeHacker
+A
+# FakeHacker
 Script ini digunakan untuk senang senang ya ges ya ?
 
 # cara gunakan
-• pkg update && upgrade -y
+```• bahan nya instal sendiri
 
-• pkg install python2 -y
+• git clone https://github.com/MRXcyberSLT/FakeHacker
 
 • cd FakeHacker
 
-• python2 HX.py
+• python2 HX.py```
 
